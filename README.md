@@ -8,4 +8,4 @@
   ![](./result.png)
 
 
-Бот использует OpenCV и sharp для обработки изображений и запускался он на платформе [Yandex Cloud Function](https://cloud.yandex.ru/services/functions)
+Бот использует [OpenCV](https://npmjs.com/package/opencv4nodejs-prebuilt) и [sharp](https://npmjs.com/package/sharp) для обработки изображений и запускался он на платформе [Yandex Cloud Function](https://cloud.yandex.ru/services/functions)
