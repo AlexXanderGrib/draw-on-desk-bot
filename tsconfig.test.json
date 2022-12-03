@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "strictBindCallApply": true,
+    "strictFunctionTypes": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+    "alwaysStrict": true,
+    "noImplicitAny": true,
+    "noErrorTruncation": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "skipDefaultLibCheck": true,
+    "esModuleInterop": true,
+    "types": ["@types/node"],
+    "incremental": true,
+    "lib": ["ESNext"]
+  },
+  "include": ["./src/**/*"],
+  "exclude": ["node_modules", "**/node_modules/*"]
+}
